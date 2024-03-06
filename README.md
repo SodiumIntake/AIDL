@@ -4,11 +4,11 @@ Author : **Sangyoon**
 
 # Folders
 
-week[1-16]: Exercise notebooks
+* week[1-16]: Exercise notebooks
 
-practice random practice codes
+* practice random practice codes
 
-etc: anything ineresting
+* etc: anything ineresting
 
 
 aa
